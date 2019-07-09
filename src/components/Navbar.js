@@ -24,3 +24,6 @@ class Navbar extends Component {
 }
  
 export default Navbar;
+
+
+// https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c
